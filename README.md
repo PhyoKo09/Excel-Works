@@ -5,3 +5,8 @@ This project is an interactive **Excel dashboard** built to analyze coffee sales
 It was created as a learning project by following this tutorial:
 
 👉 [Excel Dashboard Tutorial | Beginner Friendly](https://www.youtube.com/)
+---
+
+## Dashboard Preview
+
+![Coffee Dashboard](https://raw.githubusercontent.com/yourusername/yourrepo/main/dashboard.png)
